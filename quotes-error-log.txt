@@ -1,0 +1,43 @@
+Chapel Hill has received American Rescue Plan Act (ARPA) funds to create incentive programs aimed at boosting the local economy. The town's Economic Development Department has been tasked with distributing the funds, which are drying up quickly. Katie M., a representative from the Economic Development Department, explains the purpose of the incentive programs and the specific agreement they made with WellDOT, a company that will create 400 jobs in the area.
+
+"... through... funding" said Katie M., who added that the funding source is drying up. "... we... doing... the... of... the... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is... is
+
+Response generated in 18.14 seconds, 1000 tokens, 55.13 tokens/second
+
+Model prefers ... to any of the basic tokenization of the document
+
+
+Taking out the ellipsis option we get:
+
+Chapel Hill Economic Development Department has been utilizing American Rescue Plan Act (ARPA) funds to create incentive programs for local businesses and developers. These efforts aim to boost the town's economy and encourage growth. However, as the funding source dries up, the department is seeking alternative ways to continue these programs.
+
+"We"re familiar with the American Rescue Plan Act of 2021 and the ability to kind of infuse federal funds into local economies,"s"aid Katie Roper, a member of the economic development department. "The"town was awarded ARPA funds and our economic development department creates some incentive programs through that funding."R"oper explained.
+
+One such incentive program is the WellDOT project, which focuses on job creation. This program provides grants to businesses that create new jobs in the community. Recently, it was announced that WellDOT will expand its operations to Chapel Hill, creating 400 new jobs by 2026.
+
+WellDOT is located at 501 West, which is currently vacant. The company is in the process of obtaining permits for its new location. Despite setbacks due to the pandemic, the company has been working diligently to push forward with its expansion plans.
+
+As the ARPA funding winds down, the economic development department is looking for alternative sources to continue these incentive programs. "Once"we've fully allocated those funds, we're not identifying funding for continuing these programs into the future,"s"Roper said.
+
+The economic development department is actively seeking ways to sustain these vital programs that have helped revitalize the local economy. While the future remains uncertain, the town of Chapel Hill is committed to finding ways to maintain these incentives and continue supporting growth within the community.
+
+See `"We"re familiar with the American Rescue Plan Act of 2021 and the ability to kind of infuse federal funds into local economies,"s"`, it picks two tokens `We` and `s` and fakes the quotes around the real thing, making it up generatively.
+
+Title: Town Receives Funding Boost for Economic Development
+
+CHAPEL HILL, N.C. - The town of Chapel Hill has been awarded American Rescue Plan Act of 2021 (ARPA) funds to stimulate local economy. These funds will be used to create incentive programs to attract businesses and promote job growth.
+
+"We are doing our job and spending it. Once we've fully allocated those funds, you know, we're not identifying funding for continuing these programs into the future. Sorry, can I ask a" said Katie, who works in the town's economic development department.
+
+The incentive programs include grants for new businesses and developers. One recent example is WellDOT, a company that focuses on job creation. They have committed to creating 400 jobs by 2026, which would earn them a grant based on the number of new jobs.
+
+"They're in the middle of doing kind of their" Katie explained, "permitting process, but they were kind of delayed when they first got to Chapel Hill because of the pandemic. Some people weren't coming back to work, but they are kind of pushing forward with mostly, if not all, in-person workers, which is really great. Traceback (most recent call last):
+  File "/home/alex/c2/exllamav2/tests/test_filters.py", line 40, in <module>
+    output = generator.generate_simple(prompt, gen_settings, max_new_tokens, seed = 1234)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/data/micromamba/envs/exl2/lib/python3.12/site-packages/exllamav2/generator/base.py", line 250, in generate_simple
+    token, ptokens, pprobs, prob, eos = ExLlamaV2Sampler.sample(logits,
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/data/micromamba/envs/exl2/lib/python3.12/site-packages/exllamav2/generator/sampler.py", line 190, in sample
+    assert pass_tokens, "Filter excluded all tokens"
+AssertionError: Filter excluded all tokens

@@ -1,0 +1,22 @@
+|im_start|>system
+You are a helpful AI assistant
+<|im_start|>user
+You're familiar with American, the American Rescue Plan Act of 2021 and the ability to kind of infuse federal funds into local economies and so the town was awarded ARPA funds and our economic development department create some incentive programs through that funding. So just to note that funding source is drying up. We are doing our job and spending it. Once we've fully allocated those funds, you know, we're not identifying funding for continuing these programs into the future. Sorry, can I ask a clarifying question? Are you looking for information on the incentive guidelines, like the agreements we enter with raw properties and well data, or are you looking for grant information? A little bit of both. Okay. So, yeah. So, I just want to clarify, Katie's talking about our grant program. Yes. Okay, great. So, I'll make that up. Mm-hmm. Yeah, I do think I saw some of the web pages for that. Yeah, so we typically use the word incentive to talk about like this agreements we enter with like a private developer or a coming business to downtown. For example, WellDOT is one of the more recent ones we did, and that was focused on job creation. And so they came to downtown and they're- because it's solely based on how many new jobs they create. So they're projected to create 400 jobs by 2026. And they get a grant, essentially, for the program that they have these many new jobs. And that's how much that they get per job. Got it. Are all those jobs going to be in the same? I've walked by their office on Franklin. Is it all going to be just in that building? Or are they expanding? Yeah. So they also have the location of 501 West. So we're kind of right next door that's currently empty, but they're actively working on it right now. They're in the middle of doing kind of their permitting process, but they were kind of delayed when they first got to Chapel Hill because of the pandemic. Some people weren't coming back to work, but they are kind of pushing forward with mostly, if not all, in-person workers, which is really great. 
+
+Write an 800-word AP-style newspaper article based on the interview above. Use quotes from the interview correctly attributed. Write 1-2 sentences per paragraph, use a newsy lede and a surprising closer.
+<|im_start|>assistant
+Title: Town Receives Funding Boost for Economic Development
+
+CHAPEL HILL, N.C. - The town of Chapel Hill has been awarded American Rescue Plan Act of 2021 (ARPA) funds to stimulate local economy. These funds will be used to create incentive programs to attract businesses and promote job growth.
+
+"We are doing our job and spending it. Once we've fully allocated those funds, you know, we're not identifying funding for continuing these programs into the future. Sorry, can I ask a" said Katie, who works in the town's economic development department.
+
+The incentive programs include grants for new businesses and developers. One recent example is WellDOT, a company that focuses on job creation. They have committed to creating 400 jobs by 2026, which would earn them a grant based on the number of new jobs.
+
+WellDOT's jobs are expected to be spread across multiple locations, including their current office on Franklin Street and the currently vacant 501 West building. "They're in the middle of doing kind of their" Katie explained about the company's permitting process.
+
+While the ARPA funds provide a significant boost to the local economy, their availability is limited. "So just to note that funding source is" Katie emphasized in the interview.
+
+Despite the limited funding, the town is making the most of the opportunity to promote economic growth and support local businesses.
+
+Response generated in 5.87 seconds, 1000 tokens, 170.28 tokens/second
